@@ -185,3 +185,10 @@ checkpoints/TEST/_ARRAY_1/d/745ca64694c02838c5894377179dad0d
 checkpoints/TEST/_ARRAY_1/ocdbt.process_0/d/902a8027424709ca0f6b6e69fee5b22e
 checkpoints/TEST/_ARRAY_1/ocdbt.process_0/d/37149c385ec37c133e9f8b8c8a2d5e87
 swiss_roll.png
+checkpoints/TEST/_ARRAY_1/d/271d4c1292fe5d266acdabee227d19ae
+checkpoints/TEST/_ARRAY_1/ocdbt.process_0/d/5b54d3acc4f1e90a686a812d717f1152
+checkpoints/TEST/_ARRAY_1/ocdbt.process_0/d/066aa1533f81d4e4888346788ee42864
+score_matching_swiss_roll.png
+score_matching_swiss_roll_no_data.png
+langevin_swiss_roll.png
+score_matching_sliced_swiss_roll.png
