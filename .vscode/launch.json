@@ -12,7 +12,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "justMyCode": true  // Allow stepping into external libraries
+            "justMyCode": false  // Allow stepping into external libraries
         }
     ]
 }
